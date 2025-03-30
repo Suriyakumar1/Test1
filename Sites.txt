@@ -1,0 +1,7 @@
+Sites:
+
+www.google.com
+www.adobe.com
+www.microsoft.com
+www.amazon.com
+www.alphabet.com
